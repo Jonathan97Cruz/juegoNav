@@ -1,0 +1,11 @@
+body {
+    width: 1000px;    
+}
+h1 {
+    text-align: center;
+}
+#miCanvas {
+    border: groove 2px rgb(0, 255, 128);
+    background: rgb(0, 81, 255);
+    box-shadow: 10px 10px 10px #888888;
+}
